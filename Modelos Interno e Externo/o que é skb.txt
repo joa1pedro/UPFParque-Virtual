@@ -1,0 +1,3 @@
+Os arquivos .skb são backups de segurança, salvo automaticamente pelo recurso de Auto-Save
+Usado caso o arquivo original seja corrompido ou excluído.
+É uma cópia completa da versão salva.
